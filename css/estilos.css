@@ -45,7 +45,7 @@ body{
   border: 1px solid #DDD;
   margin: 0 auto;
   background: white;
-  height: 600px;
+  height: 900px;
 }
 
 #container h1
@@ -59,4 +59,14 @@ body{
   color: white;
   text-align: center;
   padding: 0.8em;
+}
+
+#imagen
+{
+  text-align: center;
+}
+
+#imagen img
+{
+  width: 400px;
 }
